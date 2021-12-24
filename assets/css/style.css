@@ -267,7 +267,7 @@ html{
 .info__text{
     padding-top: 5%;
 }
-.info h1{
+.info span{
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
