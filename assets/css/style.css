@@ -463,9 +463,23 @@ html{
     }
     .teachers__direction{
         padding-left: 20px;
+        padding-bottom: 20px;
+        min-height: 550px;
+    }
+    .info{
+        display: block;
+    }
+    .info__text{
+        padding-top: 0%;
+    }
+    .info__item{
+        margin-bottom: 5%;
     }
     .menu__nav{
-        padding-left: 10%;
+        padding-left: 0%;
+    }
+    .menu__nava{
+        margin-right: 0px;
     }
     .socmedia{
         text-align: center;
